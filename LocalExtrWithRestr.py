@@ -1,0 +1,1 @@
+print('che to tam')
